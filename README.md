@@ -19,8 +19,8 @@ Greatly in love with travelling and would appreciate a job where remote work is 
 Also quite the gamer and into amateur astronomy. I can atleast point out the Andromeda galaxy in the sky.<br>
 Terrible at keeping my plants alive and a heavy consumer of Pepsi Max.<br><br>
 I've always had a great passion for learning anything technical. Did a lot of programming as a child<br>
-but then highschool came around and fitting in became more important<br>. I never did lose my<br>
-interest for it despite not properly picking it up until much much later.<br>
+but then highschool came around and fitting in became more important.<br>
+I never did lose my interest for it despite not properly picking it up until much much later.<br>
 I kept my general interest for anything technological alive throughout though.</p>
 
 ## My repos
